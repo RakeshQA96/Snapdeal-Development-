@@ -6,3 +6,4 @@ Snapdeal Login Functionality
 4. Create a new account 
 5. Adding the product
 6. Adding the Cart 
+7. Removing the cart
