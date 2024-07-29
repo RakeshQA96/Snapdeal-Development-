@@ -7,3 +7,4 @@ Snapdeal Login Functionality
 5. Adding the product
 6. Adding the Cart 
 7. Removing the cart
+8. Adding Credit card payment 
