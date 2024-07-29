@@ -4,3 +4,4 @@ Snapdeal Login Functionality
 2. Login Password
 3. Forgot password
 4. Create a new account 
+5. Adding the product
