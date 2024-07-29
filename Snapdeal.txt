@@ -8,4 +8,5 @@ Snapdeal Login Functionality
 6. Adding the Cart 
 7. Removing the cart
 8. Adding Credit and debit card payment 
-9. Adding log out after the payment 
+9. Adding log out after the payment and SignUp
+
